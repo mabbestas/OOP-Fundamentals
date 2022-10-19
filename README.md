@@ -1,8 +1,8 @@
 # OOP-Fundamentals
-![OOP](https://yandex.com.tr/gorsel/search?from=tabbar&text=OOP&pos=5&img_url=http%3A%2F%2Fedukite.org%2Fwp-content%2Fuploads%2F2018%2F04%2FObject-Oriented-Programming-with-Java-I.jpg&rpt=simage&lr=115691)
+
 ## What is OOP?
 Object-oriented programming is one of the most important programming paradigms. It is a system of principles that define what basic logic we use to solve a given task and to structure our programs, and how elements of the code are connected to each other.
-
+![Object-Oriented-Programming-with-Java-I](https://user-images.githubusercontent.com/103368662/196721770-8fcee7d0-31e8-47d2-a278-940b62bd819b.jpg)
 ## Advantages of OOP
 * It is easier to model complex things as simpler, more reproducible structures
 * The code is easily reusable
