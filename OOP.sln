@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Ornek1-Inheritance\Inheritance.csproj", "{7073064D-8490-4E08-98BD-604A12FA2801}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Ornek2-Inheritance\Encapsulation.csproj", "{F7ADA7A9-8663-4430-B7AA-43DF451CC23E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Ornek3-Polymorphism\Polymorphism.csproj", "{9B66BC53-E027-4A68-9EDB-6D3428E79B59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstraction", "Ornek4-Abstraction\Abstraction.csproj", "{42C6800D-D330-4A63-AEB1-BD519B919FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7073064D-8490-4E08-98BD-604A12FA2801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7073064D-8490-4E08-98BD-604A12FA2801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7073064D-8490-4E08-98BD-604A12FA2801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7073064D-8490-4E08-98BD-604A12FA2801}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7ADA7A9-8663-4430-B7AA-43DF451CC23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7ADA7A9-8663-4430-B7AA-43DF451CC23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7ADA7A9-8663-4430-B7AA-43DF451CC23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7ADA7A9-8663-4430-B7AA-43DF451CC23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B66BC53-E027-4A68-9EDB-6D3428E79B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B66BC53-E027-4A68-9EDB-6D3428E79B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B66BC53-E027-4A68-9EDB-6D3428E79B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B66BC53-E027-4A68-9EDB-6D3428E79B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C6800D-D330-4A63-AEB1-BD519B919FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C6800D-D330-4A63-AEB1-BD519B919FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C6800D-D330-4A63-AEB1-BD519B919FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C6800D-D330-4A63-AEB1-BD519B919FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2694F2F6-41E2-47CF-94EC-C0B65B295FE2}
+	EndGlobalSection
+EndGlobal
