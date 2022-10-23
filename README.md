@@ -19,7 +19,14 @@ Encapsulation is the mechanism of hiding of data implementation by restricting a
 * Encapsulation means hiding the internal details or mechanics of how an object does something for security reasons.
 
 ## Inheritance
+Inheritance refers to the ability of an object to take on one or more characteristics from other classes of objects. The characteristics inherited are usually instance variables or member functions. An object that inherits these characteristics is known as a subclass. The object it inherits them from is known as a superclass. There are five types of inheritance:
+* Single inheritance - Subclasses inherit characteristics from a single superclass.
+* Multiple inheritance - A subclass may have more than one superclass and inherit characteristics from all of them.
+* Multilevel inheritance - A subclass may have its own subclasses. In other words, a subclass of a superclass can itself be a superclass to other subclasses.
+* Hierarchical inheritance - A base class acts as the parent superclass to multiple levels of subclasses.
+* Hybrid inheritance - A combination of one or more of the other inheritance types.
 
+## Polymorphism
 
 ## Abstraction
 The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts.
