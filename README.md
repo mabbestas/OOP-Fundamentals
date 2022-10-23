@@ -27,6 +27,9 @@ Inheritance refers to the ability of an object to take on one or more characteri
 * Hybrid inheritance - A combination of one or more of the other inheritance types.
 
 ## Polymorphism
+Polymorphism is an object-oriented programming concept that refers to the ability of a variable, function, or object to take on multiple forms. Polymorphism helps programmers reuse code and classes once written, tested, and implemented. A single variable name can be used to store variables of multiple data types. It helps compose powerful, complex abstractions from simpler ones. There are two types of polymorphism:
+* **Compile time polymorphism**: Method overloading
+* **Runtime polymorphism**: Method overriding
 
 ## Abstraction
 The main purpose of abstraction is hiding the unnecessary details from the users. Abstraction is selecting data from a larger pool to show only relevant details of the object to the user. It helps in reducing programming complexity and efforts.
