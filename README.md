@@ -12,6 +12,8 @@ Object-oriented programming is one of the most important programming paradigms. 
 * The program can be modified, debugged, and maintained easier
 * It is safer (encapsulation and abstraction makes data more secure) 
 
+![oop-principles](https://user-images.githubusercontent.com/103368662/197407942-6ab70215-0df7-47de-87c1-0d8cc0f55895.jpg)
+
 ## Encapsulation
 Encapsulation is the mechanism of hiding of data implementation by restricting access to public methods. In encapsulation, the variables of a class will be hidden from other classes, and can be accessed only through the methods of their current class. Therefore, it is also known as data hiding. 
 * Encapsulation solves it implementation level.
